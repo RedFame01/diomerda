@@ -1,0 +1,53 @@
+{
+  "counts": [
+    {
+      "name": "porcodio",
+      "count": 50
+    },
+    {
+      "name": "telefono",
+      "count": 10
+    },
+    {
+      "name": "porcamadonna",
+      "count": 52
+    },
+    {
+      "name": "porta",
+      "count": 10
+    },
+    {
+      "name": "figa",
+      "count": 49
+    },
+    {
+      "name": "blasfemia",
+      "count": 12
+    },
+    {
+      "name": "casa",
+      "count": 12
+    },
+    {
+      "name": "cinema",
+      "count": 19
+    },
+    {
+      "name": "indiani",
+      "count": 6
+    },
+    {
+      "name": "mucca",
+      "count": 13
+    },
+    {
+      "name": "violenza",
+      "count": 4
+    },
+    {
+      "name": "diomerda",
+      "count": 3
+    }
+  ],
+  "ignoreList": []
+}

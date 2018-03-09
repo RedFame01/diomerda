@@ -1,0 +1,9 @@
+{
+  "client_id": "419502783662915584",
+  "token": "NDE5NTAyNzgzNjYyOTE1NTg0.DXxFkQ.30sErMVrgWkzCJ_7nSd0z7QzFp8",
+  "prefix": "!",
+  "extensions": [".mp3", ".wav"],
+  "size": 1000000000,
+  "deleteMessages": false,
+  "stayInChannel": false
+}
